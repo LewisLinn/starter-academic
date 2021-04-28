@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/LewisLinn/LewisLinn.github.io.git
+	branch = master
