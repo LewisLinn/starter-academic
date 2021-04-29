@@ -30,7 +30,7 @@ education:
   - course: BSc in Computer Science
     institution: Simon Fraser University
     year: 2021
-  - course: BSc in Computer Science
+  - course: BEng in Computer Science
     institution: Zhejiang University
     year: 2019
 
@@ -41,19 +41,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: wla172@sfu.ca
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/LewisLi00273877
+# - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+#   icon_pack: fas
+#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/LewisLinn
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: http://linkedin.com/in/weijie-lin-8a8a321b9
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -66,11 +66,11 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
-<!-- Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a fourth year undergraduate student of computer science at Simon Fraser University. I am also a research assistant in SFU {{< staticref "https://gruvi.cs.sfu.ca" "newtab" >}} GrUVi {{< /staticref >}} Lab, advised by {{< staticref "https://angelxuanchang.github.io" "newtab" >}} Prof. Angel Xuan Chang {{< /staticref >}} and working closely with {{< staticref "https://msavva.github.io" "newtab" >}} Prof. Manolis Savva{{< /staticref >}}.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. -->
-
-<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
+My interests lie in 3D vision and graphics.
+<!-- 
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://msavva.github.io" "newtab" >}}resumé{{< /staticref >}}. -->
