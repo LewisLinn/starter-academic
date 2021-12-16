@@ -36,13 +36,13 @@ featured: false
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
-- name: website
+- name: Website
   url: "https://3dlg-hcvc.github.io/mirror3d/#/"
   icon_pack: fab
   # icon: twitter
-- name: pdf
+- name: PDF
   url: "https://arxiv.org/pdf/2106.06629.pdf"
-- name: code
+- name: Code
   url: "https://github.com/3dlg-hcvc/mirror3d"
 
 url_pdf: 
