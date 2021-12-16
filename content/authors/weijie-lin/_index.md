@@ -12,6 +12,8 @@ role: Undergraduate Student of Computer Science
 organizations:
 - name: Simon Fraser University
   url: https://www.sfu.ca/
+- name: Zhejiang University
+  url: https://www.zju.edu.cn/english/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include 3D vision and computer graphics.
@@ -20,6 +22,7 @@ bio: My research interests include 3D vision and computer graphics.
 interests:
 - 3D Vision
 - Computer Graphics
+- Deep learning
 
 # Education to show in About widget
 education:
@@ -69,7 +72,7 @@ email: ""
 highlight_name: true
 ---
 
-I am currently a fourth year undergraduate student of computer science at Simon Fraser University. I am also a research assistant in SFU {{< staticref "https://gruvi.cs.sfu.ca" "newtab" >}} GrUVi {{< /staticref >}} Lab, advised by {{< staticref "https://angelxuanchang.github.io" "newtab" >}} Prof. Angel Xuan Chang {{< /staticref >}} and working closely with {{< staticref "https://msavva.github.io" "newtab" >}} Prof. Manolis Savva{{< /staticref >}}.
+I am currently a final year undergraduate student of computer science at Simon Fraser University. I am also a research assistant in SFU [GrUVi](https://gruvi.cs.sfu.ca) Lab, advised by [Prof. Angel Xuan Chang](https://angelxuanchang.github.io) and co-advised by [Prof. Manolis Savva](https://msavva.github.io).
 
 My interests lie in 3D vision and graphics.
 <!-- 
