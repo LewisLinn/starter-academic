@@ -22,7 +22,7 @@ bio: My research interests include 3D vision and computer graphics.
 interests:
 - 3D Vision
 - Computer Graphics
-- Deep learning
+- Deep Learning
 
 # Education to show in About widget
 education:
