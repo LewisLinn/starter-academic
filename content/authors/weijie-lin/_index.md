@@ -29,12 +29,15 @@ education:
   # - course: PhD in Artificial Intelligence
   #   institution: Stanford University
   #   year: 2012
+  - course: MS in Computer Vision
+    institution: Carnegie Mellon University
+    year: 2022 - 
   - course: BSc in Computer Science
     institution: Simon Fraser University
-    year: 2021
+    year: 2019 - 2022
   - course: BEng in Computer Science
     institution: Zhejiang University
-    year: 2019
+    year: 2017 - 2022
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
